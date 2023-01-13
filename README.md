@@ -89,7 +89,7 @@ In order to run this project you need:
 ### Setup
 
 Clone this repository to your desired folder:
-- Clone [this repository](https://github.com/benardop/hello-reat-front-end.git)
+- Clone [this repository](https://github.com/benardop/hello-rails-back-end.git)
 
 
 ### Install
