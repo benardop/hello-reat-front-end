@@ -126,7 +126,7 @@ To run tests, run the following command:
 
 👤 **Benard**
 
-- GitHub: [@benardop](https://github.com/yasinabdmahmood)
+- GitHub: [@benardop](https://github.com/benardop)
 - LinkedIn: [Benatrd Pacho](https://www.linkedin.com/in/benardpacho/)
 - GitLab: [Benard Pacho](https://gitlab.com/benardop)
 
